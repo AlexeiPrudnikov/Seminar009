@@ -1,0 +1,30 @@
+Z:/C#/New project/GeekBrains/Homework009/Task64/bin/Debug/net6.0/Task64.exe
+Z:/C#/New project/GeekBrains/Homework009/Task64/bin/Debug/net6.0/Task64.deps.json
+Z:/C#/New project/GeekBrains/Homework009/Task64/bin/Debug/net6.0/Task64.runtimeconfig.json
+Z:/C#/New project/GeekBrains/Homework009/Task64/bin/Debug/net6.0/Task64.dll
+Z:/C#/New project/GeekBrains/Homework009/Task64/bin/Debug/net6.0/Task64.pdb
+Z:/C#/New project/GeekBrains/Homework009/Task64/obj/Debug/net6.0/Task64.csproj.AssemblyReference.cache
+Z:/C#/New project/GeekBrains/Homework009/Task64/obj/Debug/net6.0/Task64.GeneratedMSBuildEditorConfig.editorconfig
+Z:/C#/New project/GeekBrains/Homework009/Task64/obj/Debug/net6.0/Task64.AssemblyInfoInputs.cache
+Z:/C#/New project/GeekBrains/Homework009/Task64/obj/Debug/net6.0/Task64.AssemblyInfo.cs
+Z:/C#/New project/GeekBrains/Homework009/Task64/obj/Debug/net6.0/Task64.csproj.CoreCompileInputs.cache
+Z:/C#/New project/GeekBrains/Homework009/Task64/obj/Debug/net6.0/Task64.dll
+Z:/C#/New project/GeekBrains/Homework009/Task64/obj/Debug/net6.0/refint/Task64.dll
+Z:/C#/New project/GeekBrains/Homework009/Task64/obj/Debug/net6.0/Task64.pdb
+Z:/C#/New project/GeekBrains/Homework009/Task64/obj/Debug/net6.0/Task64.genruntimeconfig.cache
+Z:/C#/New project/GeekBrains/Homework009/Task64/obj/Debug/net6.0/ref/Task64.dll
+/Users/alx/Учеба/04 - Введение в программирование/Seminars/Homework009/Task64/bin/Debug/net6.0/Task64
+/Users/alx/Учеба/04 - Введение в программирование/Seminars/Homework009/Task64/bin/Debug/net6.0/Task64.deps.json
+/Users/alx/Учеба/04 - Введение в программирование/Seminars/Homework009/Task64/bin/Debug/net6.0/Task64.runtimeconfig.json
+/Users/alx/Учеба/04 - Введение в программирование/Seminars/Homework009/Task64/bin/Debug/net6.0/Task64.dll
+/Users/alx/Учеба/04 - Введение в программирование/Seminars/Homework009/Task64/bin/Debug/net6.0/Task64.pdb
+/Users/alx/Учеба/04 - Введение в программирование/Seminars/Homework009/Task64/obj/Debug/net6.0/Task64.csproj.AssemblyReference.cache
+/Users/alx/Учеба/04 - Введение в программирование/Seminars/Homework009/Task64/obj/Debug/net6.0/Task64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alx/Учеба/04 - Введение в программирование/Seminars/Homework009/Task64/obj/Debug/net6.0/Task64.AssemblyInfoInputs.cache
+/Users/alx/Учеба/04 - Введение в программирование/Seminars/Homework009/Task64/obj/Debug/net6.0/Task64.AssemblyInfo.cs
+/Users/alx/Учеба/04 - Введение в программирование/Seminars/Homework009/Task64/obj/Debug/net6.0/Task64.csproj.CoreCompileInputs.cache
+/Users/alx/Учеба/04 - Введение в программирование/Seminars/Homework009/Task64/obj/Debug/net6.0/Task64.dll
+/Users/alx/Учеба/04 - Введение в программирование/Seminars/Homework009/Task64/obj/Debug/net6.0/refint/Task64.dll
+/Users/alx/Учеба/04 - Введение в программирование/Seminars/Homework009/Task64/obj/Debug/net6.0/Task64.pdb
+/Users/alx/Учеба/04 - Введение в программирование/Seminars/Homework009/Task64/obj/Debug/net6.0/Task64.genruntimeconfig.cache
+/Users/alx/Учеба/04 - Введение в программирование/Seminars/Homework009/Task64/obj/Debug/net6.0/ref/Task64.dll
